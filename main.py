@@ -29,6 +29,6 @@ Presale will start soon💯🔥🔥🚀🚀
 '''
 while(True):
  telegram_bot_sendtext(msg)
- time.sleep(7200)
+ time.sleep(7211)
 
 
