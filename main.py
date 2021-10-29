@@ -23,7 +23,7 @@ dex✅, Dapp❇️, charity😇 NFT market place✅, games🎠, and many more..�
 Revolutionizing the crypto space🌎🌎 with the JBC Hub.
 
 Our referral program is one of a kind. For presale, anyone that refers somebody will receive 5% of their referral's initial purchase that will automatically be distributed to the referee. On our Hub V2, we will have a little bit more incentive as anyone that refers somebody will receive 1% of their purchase continuously as long as they purchase Jbc on our platform. The referral program is just one way the JBC team recognizes the JBC community, so stay tuned as the JBC team has many more incentives for you!!!!
-Presale will start Oct 29 3PM IST KYC Implemented   💯🔥🔥🚀🚀
+Presale will start Nov 1 9:30 AM UTC KYC Implemented   💯🔥🔥🚀🚀
 🌐 Telegram - @junglebookcrypto
 🌐 Website - junglebookcrypto.com '''
 while(True):
