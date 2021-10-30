@@ -28,7 +28,7 @@ Presale will start Nov 1 9:30 AM UTC KYC Implemented   💯🔥🔥🚀🚀
 🌐 Website - junglebookcrypto.com '''
 while(True):
  telegram_bot_sendtext(msg)
- time.sleep(3600)
- time.sleep(3600)
+ time.sleep(1800)
+
 
 
