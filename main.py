@@ -13,7 +13,7 @@ def telegram_bot_sendtext(bot_message):
 msg = '''My name is Bonobo🐻, and I am excited to have you enter the Jungle. 🌲🦧 We have just migrated to Pinksale. Please visit their site for the presale!! 
 Thank you all and welcome new members to the Jungle!!!!🌴👑🚀🚀
 
-http://bit.ly/3FGWhje'''
+http://bit.ly/3cDVHGm'''
 while(True):
  telegram_bot_sendtext(msg)
  time.sleep(3600)
