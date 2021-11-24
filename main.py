@@ -10,10 +10,8 @@ def telegram_bot_sendtext(bot_message):
     response = requests.get(send_text)
     return response.json()
 
-msg = '''My name is Bonobo🐻, and I am excited to have you enter the Jungle. 🌲🦧 We have just migrated to Pinksale. Please visit their site for the presale!! 
-Thank you all and welcome new members to the Jungle!!!!🌴👑🚀🚀
-
-http://bit.ly/3cDVHGm'''
+msg = '''💎For presale visit us at🌐 www.junglebookcrypto.com  click on the buy now button where it will take you to create an account and purchase the token. 💰The only method of payment the jungle accepts is BNB and Buy Through PinkSale with the Pinksale link https://www.pinksale.finance/#/launchpad/0xE9ACbA178F2199Bb851090c6EcdE4A72F3793d32?chain=BSC 
+Min buy 0.1 BNB max buy 5 BNB. Also please see the referral info.🤑 The Jungle has a great referral package for all its members!!!!!!!!! Ask our Jungle Guides for more info.⚜️ '''
 while(True):
  telegram_bot_sendtext(msg)
  time.sleep(3600)
